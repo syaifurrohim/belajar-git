@@ -1,1 +1,2 @@
-var myVar = 1
+var myVar = 1;
+var satu = "satu";
